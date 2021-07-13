@@ -1,5 +1,5 @@
 {
-  "name": "@DubenisLopezIMEX/enjoyhint",
+  "name": "@dubenis-imex/enjoyhint",
   "version": "5.1.4",
   "description": "Web-tool that provides the simplest way to create interactive tutorials and hints.",
   "main": "enjoyhint.js",
