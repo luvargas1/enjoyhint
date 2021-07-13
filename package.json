@@ -1,6 +1,6 @@
 {
-  "name": "@cieb/enjoyhint",
-  "version": "5.1.3",
+  "name": "@DubenisLopezIMEX/enjoyhint",
+  "version": "5.1.4",
   "description": "Web-tool that provides the simplest way to create interactive tutorials and hints.",
   "main": "enjoyhint.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ticieb/enjoyhint.git"
+    "url": "https://github.com/DubenisLopezIMEX/enjoyhint.git"
   },
   "keywords": [
     "enjoyhint",
@@ -19,9 +19,9 @@
   "author": "XB Software",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ticieb/enjoyhint/issues"
+    "url": "https://github.com/DubenisLopezIMEX/enjoyhint.git/issues"
   },
-  "homepage": "https://github.com/ticieb/enjoyhint",
+  "homepage": "https://github.com/DubenisLopezIMEX/enjoyhint",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-concat": "^0.5.1",
