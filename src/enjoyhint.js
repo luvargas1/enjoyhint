@@ -498,6 +498,7 @@ function main($, scrollSpeed, step_data, makeEventName, $body, current_step, fla
     } else {
 
       $event_element.on(event, function(e) {
+        $event_element.unbind(event);
         if (step_data.keyCode && e.keyCode != step_data.keyCode) {
           return;
         }
