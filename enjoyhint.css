@@ -17,40 +17,40 @@
     -moz-box-sizing:content-box;box-sizing:content-box;
     border:2px solid #FFF;-webkit-border-radius:40px;border-radius:40px;
     color:#000;-o-text-overflow:clip;text-overflow:clip;
-    background-color:#901078}
+    background-color:#AB47BC}
     
 .enjoyhint_next_btn:hover,.enjoyhint_prev_btn:hover{
-    color:rgba(255,255,255,1);background:#901078}
+    color:rgba(255,255,255,1);background:#AB47BC}
     
 .enjoyhint_close_btn,.enjoyhint_skip_btn{
     z-index:1012;pointer-events:all;-moz-box-sizing:content-box;-o-text-overflow:clip;
     text-overflow:clip}
     
 .enjoyhint_prev_btn:active{
-    border:2px solid #901078;background:#901078;
+    border:2px solid #AB47BC;background:#AB47BC;
     -webkit-transition:none;-moz-transition:none;-o-transition:none;transition:none}
     
 .enjoyhint_close_btn:active,.enjoyhint_next_btn:active,.enjoyhint_skip_btn:active{
     -webkit-transition:none;-moz-transition:none;-o-transition:none}
     
 .enjoyhint_next_btn:active{
-    border:2px solid #901078;background:#901078;transition:none}
+    border:2px solid #AB47BC;background:#AB47BC;transition:none}
     
 .enjoyhint_skip_btn{
     box-sizing:content-box;border:2px solid #FFF;
-    -webkit-border-radius:40px;border-radius:40px;color:#000;background-color:#901078}
+    -webkit-border-radius:40px;border-radius:40px;color:#000;background-color:#AB47BC}
     
 .enjoyhint_skip_btn:hover{
-    color:rgba(255,255,255,1);background:#901078}
+    color:rgba(255,255,255,1);background:#AB47BC}
 
 .enjoyhint_skip_btn:active{
-    border:2px solid #901078;background:#901078;transition:none}
+    border:2px solid #AB47BC;background:#AB47BC;transition:none}
 
 .enjoyhint_close_btn{
     display:inline-block;position:absolute;-webkit-box-sizing:content-box;
     box-sizing:content-box;width:.3em;height:.3em;-webkit-border-radius:1em;
     border-radius:1em;font:400 8em/normal Arial,Helvetica,sans-serif;
-    color:#fff;background:rgba(0,0,0,0);border:2px solid #901078}
+    color:#fff;background:rgba(0,0,0,0);border:2px solid #AB47BC}
     
 .enjoyhint_close_btn::after,.enjoyhint_close_btn::before{
     display:inline-block;-moz-box-sizing:content-box;width:73%;
@@ -68,18 +68,18 @@
     .enjoyhint_close_btn::after{
         box-sizing:content-box;top:46%;left:15%;-webkit-transform:rotateZ(-45deg);transform:rotateZ(-45deg)}
 
-    .enjoyhint_close_btn:hover{color:rgba(255,255,255,1);background:#901078;cursor:pointer}
+    .enjoyhint_close_btn:hover{color:rgba(255,255,255,1);background:#AB47BC;cursor:pointer}
     
-    .enjoyhint_close_btn:active{border:2px solid #901078;background:#901078;transition:none}
+    .enjoyhint_close_btn:active{border:2px solid #AB47BC;background:#AB47BC;transition:none}
     
     .enjoyhint_btn{
         -moz-box-sizing:content-box;box-sizing:content-box;width:150px;border:2px solid #FFF;
-        -webkit-border-radius:40px;border-radius:40px;color:#000;background-color:#901078}#kinetic_container,
+        -webkit-border-radius:40px;border-radius:40px;color:#000;background-color:#AB47BC}#kinetic_container,
     
     .enjoyhint_canvas,.enjoyhint_svg_wrapper,.enjoyhint_svg_wrapper svg{width:100%;height:100%;position:absolute}
-    .enjoyhint_btn:hover{color:rgba(255,255,255,1);background:#901078}
+    .enjoyhint_btn:hover{color:rgba(255,255,255,1);background:#AB47BC}
     .enjoyhint_btn:active{
-        border:2px solid #901078;background:#901078;-webkit-transition:none;
+        border:2px solid #AB47BC;background:#AB47BC;-webkit-transition:none;
         -moz-transition:none;-o-transition:none;transition:none}
     .enjoyhint div.canvas-container{position:absolute}
     .enjoyhint_canvas{z-index:100;pointer-events:none}#kinetic_container{pointer-events:none;top:0;left:0}
